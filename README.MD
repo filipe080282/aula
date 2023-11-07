@@ -10,3 +10,5 @@
 
 ##Staged
 -> pronto para commit
+
+*git restore
