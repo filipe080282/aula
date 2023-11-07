@@ -1,11 +1,12 @@
 #TESTE DE REPOSITÓRIO
 
-#UNTRACKED 
+##UNTRACKED 
 
-#Unmodified
+##Unmodified
 -> já foi mapeado e dado commit
 
-#Modified
+##Modified
 -> Arquivo comitado e já modificado
 
-#Staged
+##Staged
+-> pronto para commit
